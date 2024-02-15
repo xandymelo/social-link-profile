@@ -1,0 +1,8 @@
+
+@font-face {
+    font-family: Inter;
+    src: url('./social-links-profile-main/assets/fonts/static/Inter-Regular.ttf') format('truetype');
+}
+body {
+    font-family: 'Inter', sans-serif;
+}
